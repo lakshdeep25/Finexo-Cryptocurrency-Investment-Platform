@@ -22,8 +22,8 @@ Owl Carousel
 Design Tools: Adobe Photoshop
 
 Usage
-Navigate to the homepage to view the dynamic hero section and sliders.
-Explore the services section to understand the offerings.
+You can just navigate to the homepage to view the dynamic hero section and sliders.
+You can explore the services section to understand the offerings.
 Meet the team members in the team introduction section.
 Read client testimonials to see the feedback from users.
 
@@ -31,7 +31,8 @@ License
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
 Contact
-For any inquiries or feedback, please contact us at email@example.com.
+For any inquiries or feedback, don't hesitate to get in touch with us at email@example.com.
+![img 1](https://github.com/user-attachments/assets/af108597-d2a5-40e8-8bb4-f7edebdd763f)
 
 
 
